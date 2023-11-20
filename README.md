@@ -24,4 +24,10 @@ conda activate notebook
 
 3. Set your vscode notebook env to the conda env `notebook`
 
+4. Install pip requirements while in `notebook` environment
+
+```
+pip install -r requirements.txt
+```
+
 **To Exit the conda env run `conda deactivate` in your terminal**
